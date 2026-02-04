@@ -9,12 +9,11 @@ Each secret is individually encrypted to a randomly-named file in the *safe* dir
 For the latest version, clone the repository or download the script directly:
 
 ```console
-git clone https://github.com/drduh/pwd.sh
+git clone https://github.com/Treonix-in/file-encryption-tool.git
 
 wget https://raw.githubusercontent.com/drduh/pwd.sh/master/pwd.sh
 ```
 
-Versioned [Releases](https://github.com/drduh/pwd.sh/releases) are also available.
 
 # Use
 
